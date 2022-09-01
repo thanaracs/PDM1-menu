@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/novogrupo"
+        android:title="Novo grupo" />
+    <item android:id="@+id/arquivadas"
+        android:title="Arquivadas"/>
+    <item android:id="@+id/msgFavoritas"
+        android:title="Mensagens favoritas"/>
+    <item android:id="@+id/configuracoes"
+        android:title="Configurações"/>
+</menu>
